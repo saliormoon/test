@@ -1,7 +1,7 @@
 # include<iostream>
 # include <fstream>
 using namespace std;
-                                  //ËùÎ½namespace£¬ÊÇÖ¸±êÊ¶·ûµÄ¸÷ÖÖ¿É¼û·¶Î§¡£C£«£«±ê×¼³ÌĞò¿âÖĞµÄËùÓĞ±êÊ¶·û¶¼±»¶¨ÒåÓÚÒ»¸öÃûÎªstdµÄnamespaceÖĞ¡£
+//æ‰€è°“namespaceï¼Œæ˜¯æŒ‡æ ‡è¯†ç¬¦çš„å„ç§å¯è§èŒƒå›´ã€‚Cï¼‹ï¼‹æ ‡å‡†ç¨‹åºåº“ä¸­çš„æ‰€æœ‰æ ‡è¯†ç¬¦éƒ½è¢«å®šä¹‰äºä¸€ä¸ªåä¸ºstdçš„namespaceä¸­ã€‚
 
 class A{
 public:
